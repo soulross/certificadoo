@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Site.css">
+    <title>Registro de Identidad</title>
+</head>
+<body>
+    <div style="text-align:center; margin-top: 50px;">
+        <h1>Registro de Identidad</h1>
+        <table align="center" cellpadding="10">
+            <tr>
+                <td class="dgHead">Nombre completo:</td>
+                <td class="dgText">HEIDI REGINA RUIZ TORRES</td>
+            </tr>
+            <tr>
+                <td class="dgHead">CURP:</td>
+                <td class="dgText">RUTH000902MDFZRDA9</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
